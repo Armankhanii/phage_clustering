@@ -1,6 +1,8 @@
 # Phage Genome Clustering Pipeline
 
 This repository contains a modular pipeline for phage genome clustering using sequence embeddings, Pharokka-derived genomic features, and downstream clustering analysis. The workflow is organized into separate stages so that users can either reproduce the full pipeline from raw phage genomes or directly reproduce the results of this project using the precomputed files provided in the repository.
+This repository was prepared for clustering studies of the following paper:  
+[AI-assisted phage formulation delivered via injectable hydrogels for localized control of implant-associated infections](https://doi.org/10.1016/j.bioactmat.2026.04.013)
 
 ## Repository Contents
 
